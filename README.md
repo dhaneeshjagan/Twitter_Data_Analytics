@@ -1,4 +1,4 @@
-# Twitter_Data_Analytics
+# Social Media Analysis — Twitter analytics
 
 The Challenge: Fragmented social media metrics were hindering strategic content decisions and performance optimization.
 My Role: As a Data Analyst, I developed a comprehensive Twitter Analytics Dashboard to centralize and visualize key performance indicators.
